@@ -1,8 +1,8 @@
-### Telegram Kelime Oyunu @MajesteBotlar 
+### Telegram Kelime Oyunu @slmBATU 
 📝
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MacroKeke/kelimebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kostok20/kelimebot)
 
 <h4>🔺 Okteto ile Kurulum 🔻</h4> 
 
