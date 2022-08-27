@@ -44,7 +44,7 @@ async def help(bot, message):
   await message.reply_photo("https://i.ibb.co/K6QTywd/images-17.jpg",caption=HELP) 
 
 # Oyunu başlat. 
-@Client.on_message(filters.command("gameee")) 
+@Client.on_message(filters.command("gamee")) 
 async def kelimeoyun(c:Client, m:Message):
     global oyun
     aktif = False
